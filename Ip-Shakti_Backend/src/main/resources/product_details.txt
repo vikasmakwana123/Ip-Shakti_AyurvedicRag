@@ -1,0 +1,180 @@
+
+Title: "Wireless Bluetooth Earbuds"
+Description: High-fidelity stereo sound with deep bass. Ergonomic design for comfortable wear. Includes portable charging case.
+Price: $45.99
+Category: Electronics
+Features: Bluetooth 5.0, 20-hour battery life (with case), Sweatproof, Touch Controls
+
+Title: "Smart Fitness Watch"
+Description: Track your daily activities, heart rate, sleep patterns, and fitness performance with this smart wearable device.
+Price: $79.99
+Category: Electronics
+Features: Heart Rate Monitor, GPS Tracking, Sleep Monitoring, Waterproof, 7-day Battery Life
+
+Title: "Gaming Mechanical Keyboard"
+Description: High-performance mechanical keyboard designed for gamers and professionals. Provides responsive keys and customizable lighting.
+Price: $89.99
+Category: Electronics
+Features: RGB Backlighting, Mechanical Switches, USB-C Connection, Anti-Ghosting, Programmable Keys
+
+Title: "Noise Cancelling Headphones"
+Description: Premium wireless headphones delivering immersive audio quality with advanced active noise cancellation technology.
+Price: $129.99
+Category: Electronics
+Features: Bluetooth 5.3, Active Noise Cancellation, 30-hour Battery Life, Built-in Microphone, Fast Charging
+
+Title: "Men's Running Shoes"
+Description: Lightweight running shoes designed to provide maximum comfort, flexibility, and support during running and workouts.
+Price: $59.99
+Category: Fashion
+Features: Breathable Mesh, Cushioned Sole, Lightweight Design, Anti-Slip Grip, Flexible Material
+
+Title: "Stainless Steel Water Bottle"
+Description: Durable insulated water bottle that keeps beverages cold or hot for extended periods. Suitable for travel and everyday use.
+Price: $19.99
+Category: Home & Kitchen
+Features: 750ml Capacity, Double Wall Insulation, Leakproof Lid, BPA-Free, Stainless Steel
+
+Title: "Portable Bluetooth Speaker"
+Description: Compact wireless speaker with powerful audio output and deep bass. Ideal for outdoor activities, travel, and home entertainment.
+Price: $34.99
+Category: Electronics
+Features: Bluetooth 5.2, Waterproof Design, 12-hour Battery Life, Built-in Microphone, USB-C Charging
+
+Title: "Ergonomic Office Chair"
+Description: Comfortable office chair designed to support proper posture during long working hours. Features adjustable seating and lumbar support.
+Price: $149.99
+Category: Furniture
+Features: Adjustable Height, Lumbar Support, Breathable Mesh, 360-degree Rotation, Armrests
+
+Title: "Organic Green Tea"
+Description: Premium organic green tea made from carefully selected tea leaves. Provides a refreshing taste and natural aroma.
+Price: $12.99
+Category: Grocery
+Features: 100% Organic, 50 Tea Bags, Natural Ingredients, No Artificial Additives, Rich Aroma
+
+Title: "Laptop Backpack"
+Description: Stylish and durable backpack designed to safely carry laptops and everyday accessories. Suitable for students and professionals.
+Price: $39.99
+Category: Accessories
+Features: 15.6-inch Laptop Compartment, Water Resistant, Multiple Pockets, Padded Straps, USB Charging Port
+
+Title: "Wireless Gaming Mouse"
+Description: Precision gaming mouse designed for competitive gaming with responsive tracking, customizable buttons, and ergonomic grip.
+Price: $49.99
+Category: Electronics
+Features: 16000 DPI, RGB Lighting, Wireless Connectivity, 6 Programmable Buttons, Rechargeable Battery
+
+Title: "Smart LED Desk Lamp"
+Description: Modern desk lamp providing adjustable lighting for reading, studying, and office work. Offers multiple brightness levels.
+Price: $29.99
+Category: Home & Kitchen
+Features: Touch Control, Adjustable Brightness, USB Charging Port, Eye Protection, Flexible Neck
+
+Title: "Digital Drawing Tablet"
+Description: Professional drawing tablet designed for digital artists and graphic designers. Provides accurate pen input and smooth drawing performance.
+Price: $89.99
+Category: Electronics
+Features: Pressure Sensitive Pen, 8192 Pressure Levels, USB Connection, Battery-Free Stylus, Customizable Buttons
+
+Title: "Men's Leather Wallet"
+Description: Classic leather wallet with a compact design for organizing cash, cards, and identification documents.
+Price: $24.99
+Category: Fashion
+Features: Genuine Leather, Multiple Card Slots, RFID Protection, Coin Pocket, Slim Design
+
+Title: "Portable Power Bank"
+Description: High-capacity portable charger designed to keep smartphones and electronic devices powered while traveling.
+Price: $32.99
+Category: Electronics
+Features: 20000mAh Capacity, Fast Charging, Dual USB Ports, USB-C Input, LED Battery Indicator
+
+Title: "Ceramic Coffee Mug"
+Description: Elegant ceramic coffee mug suitable for enjoying coffee, tea, and other hot beverages at home or in the office.
+Price: $14.99
+Category: Home & Kitchen
+Features: 350ml Capacity, Heat Resistant, Dishwasher Safe, Comfortable Handle, Scratch Resistant
+
+Title: "Yoga Exercise Mat"
+Description: Non-slip exercise mat designed for yoga, stretching, meditation, and home workouts. Provides comfortable cushioning and stability.
+Price: $27.99
+Category: Sports & Fitness
+Features: 6mm Thickness, Anti-Slip Surface, Lightweight, Waterproof, Easy to Clean
+
+Title: "Digital Camera"
+Description: Compact digital camera designed for photography enthusiasts. Captures detailed images and high-quality videos in different lighting conditions.
+Price: $249.99
+Category: Electronics
+Features: 24MP Sensor, 4K Video Recording, Optical Zoom, Image Stabilization, Rechargeable Battery
+
+Title: "Electric Coffee Grinder"
+Description: Efficient coffee grinder designed to grind fresh coffee beans for a rich and flavorful brewing experience.
+Price: $39.99
+Category: Home & Kitchen
+Features: Stainless Steel Blades, Adjustable Grinding, 200W Motor, Compact Design, Easy Cleaning
+
+Title: "Men's Sports Jacket"
+Description: Lightweight sports jacket designed for outdoor activities and everyday casual wear. Provides comfort and protection against light wind.
+Price: $69.99
+Category: Fashion
+Features: Wind Resistant, Breathable Fabric, Zipper Closure, Multiple Pockets, Lightweight Material
+
+Title: "Wireless Charging Pad"
+Description: Convenient wireless charging pad designed to charge compatible smartphones and wireless accessories without using cables.
+Price: $22.99
+Category: Electronics
+Features: 15W Fast Charging, Qi Compatibility, LED Indicator, Overheat Protection, USB-C Connection
+
+Title: "Memory Foam Pillow"
+Description: Ergonomic memory foam pillow designed to provide comfortable head and neck support during sleep.
+Price: $35.99
+Category: Home & Kitchen
+Features: Memory Foam Filling, Breathable Cover, Removable Cover, Hypoallergenic Material, Neck Support
+
+Title: "Professional Hair Dryer"
+Description: Powerful hair dryer designed for fast and efficient hair drying. Provides adjustable temperature and airflow settings for different hair types.
+Price: $54.99
+Category: Personal Care
+Features: 1800W Motor, Multiple Heat Settings, Cool Shot Function, Ionic Technology, Overheat Protection
+
+Title: "Electric Toothbrush"
+Description: Advanced electric toothbrush designed to improve daily oral hygiene with efficient cleaning and multiple brushing modes.
+Price: $42.99
+Category: Personal Care
+Features: Sonic Technology, 3 Cleaning Modes, Rechargeable Battery, Two-Minute Timer, Waterproof Design
+
+Title: "Travel Suitcase"
+Description: Durable travel suitcase designed to organize and protect belongings during business trips and vacations. Features smooth rolling wheels.
+Price: $99.99
+Category: Travel Accessories
+Features: 4 Spinner Wheels, Combination Lock, Expandable Storage, ABS Shell, Adjustable Handle
+
+Title: "Stainless Steel Cookware Set"
+Description: Complete cookware set designed for everyday cooking. Provides even heat distribution and durable construction for long-term kitchen use.
+Price: $119.99
+Category: Home & Kitchen
+Features: 5-Piece Set, Stainless Steel Construction, Heat Resistant Handles, Induction Compatible, Dishwasher Safe
+
+Title: "Indoor Security Camera"
+Description: Smart indoor security camera designed to monitor homes and offices remotely. Provides clear video and motion detection alerts.
+Price: $64.99
+Category: Electronics
+Features: 1080p HD Video, Night Vision, Motion Detection, Two-Way Audio, Wi-Fi Connectivity
+
+Title: "Camping Sleeping Bag"
+Description: Lightweight sleeping bag designed for camping and outdoor adventures. Provides insulation and comfortable sleeping conditions in cool weather.
+Price: $49.99
+Category: Sports & Fitness
+Features: Lightweight Design, Water Resistant, Temperature Rating 5°C, Compact Storage Bag, Durable Zipper
+
+Title: "Classic Analog Wristwatch"
+Description: Elegant analog wristwatch designed for everyday use and formal occasions. Combines a minimalist appearance with reliable timekeeping.
+Price: $89.99
+Category: Fashion
+Features: Quartz Movement, Stainless Steel Case, Water Resistant, Adjustable Strap, Scratch Resistant Glass
+
+Title: "External SSD"
+Description: High-speed portable solid-state drive designed for storing and transferring large files, documents, videos, and software projects.
+Price: $109.99
+Category: Electronics
+Features: 1TB Storage, USB 3.2 Interface, Read Speed Up to 1050MB/s, Compact Design, Shock Resistant

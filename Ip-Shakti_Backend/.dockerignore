@@ -1,0 +1,6 @@
+.env
+.env.*
+.idea
+.mvn
+target
+*.log
